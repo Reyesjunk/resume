@@ -1,0 +1,21 @@
+b,li {
+	font-family: Garamond, serif;
+}
+b {
+	font-weight: bold
+}
+h1,h2 {
+	color: darkred;
+}
+h2 {
+	font-family: Helvetica, sans-serif;
+}
+span{ 
+	margin-left: 30px
+	font-weight: bold;
+
+}
+body {
+	width: 400px;
+	margin: 0 auto;
+}
